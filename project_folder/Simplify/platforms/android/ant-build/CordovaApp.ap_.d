@@ -1,137 +1,915 @@
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\CordovaApp.ap_ \
- : C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\drawable\icon.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\drawable-hdpi\icon.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\drawable-hdpi\splash.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\drawable-land-hdpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\drawable-land-ldpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\drawable-land-mdpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\drawable-land-xhdpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\drawable-ldpi\splash.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\drawable-mdpi\splash.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\drawable-port-hdpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\drawable-port-ldpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\drawable-port-mdpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\drawable-port-xhdpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\drawable-xhdpi\splash.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\drawable-xxhdpi\icon.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\values\strings.xml \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\res\xml\config.xml \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\res\drawable\icon.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\res\drawable-hdpi\icon.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\res\drawable-hdpi\splash.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\res\drawable-ldpi\splash.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\res\drawable-mdpi\splash.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\res\drawable-xhdpi\splash.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\res\drawable-xxhdpi\icon.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\_where-is-www.txt \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\addplans.asp \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\add_plans.html \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\cordova.js \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\cordova_plugins.js \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\coworkers.html \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\css \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\friends.html \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\icon.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\img \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\index.html \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\js \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\modify_plans.html \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\notifications.html \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\read.html \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\request_shift.html \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\spec \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\spec.html \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\study.html \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\time_fillers.html \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\view_plans.html \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\watchtv.html \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\css\background.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\css\index.css \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\img\logo.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\img\menu.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\img\notifications.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\img\notificationspurple.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\img\submit.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\img\wdCalendar.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\js\index.js \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\js\jquery-2.1.3.js \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\android \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\bada \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\bada-wac \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\blackberry \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\ios \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\tizen \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\webos \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\windows-phone \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\android\icon-36-ldpi.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\android\icon-48-mdpi.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\android\icon-72-hdpi.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\android\icon-96-xhdpi.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\bada\icon-128.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\bada-wac\icon-48-type5.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\bada-wac\icon-50-type3.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\bada-wac\icon-80-type4.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\blackberry\icon-80.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\ios\icon-57-2x.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\ios\icon-57.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\ios\icon-72-2x.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\ios\icon-72.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\tizen\icon-128.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\webos\icon-64.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\windows-phone\icon-173-tile.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\windows-phone\icon-48.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\icon\windows-phone\icon-62-tile.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\android \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\bada \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\bada-wac \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\blackberry \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\ios \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\tizen \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\webos \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\windows-phone \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\android\screen-hdpi-landscape.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\android\screen-hdpi-portrait.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\android\screen-ldpi-landscape.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\android\screen-ldpi-portrait.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\android\screen-mdpi-landscape.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\android\screen-mdpi-portrait.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\android\screen-xhdpi-landscape.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\android\screen-xhdpi-portrait.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\bada\screen-portrait.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\bada-wac\screen-type3.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\bada-wac\screen-type4.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\bada-wac\screen-type5.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\blackberry\screen-225.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\ios\screen-ipad-landscape-2x.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\ios\screen-ipad-landscape.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\ios\screen-ipad-portrait-2x.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\ios\screen-ipad-portrait.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\ios\screen-iphone-landscape-2x.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\ios\screen-iphone-landscape.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\ios\screen-iphone-portrait-2x.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\ios\screen-iphone-portrait-568h-2x.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\ios\screen-iphone-portrait.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\tizen\README.md \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\webos\screen-64.png \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\res\screen\windows-phone\screen-portrait.jpg \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\spec\helper.js \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\spec\index.js \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\spec\lib \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\spec\lib\jasmine-1.2.0 \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine-html.js \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine.css \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine.js \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\assets\www\spec\lib\jasmine-1.2.0\MIT.LICENSE \
-C:\Users\Kyle\Documents\School\Spring 2015\Digital Media Projects\Digital Media Projects App\app\Simplify\platforms\android\ant-build\AndroidManifest.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\CordovaApp.ap_ \
+ : C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\drawable\icon.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\drawable-hdpi\icon.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\drawable-hdpi\splash.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\drawable-land-hdpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\drawable-land-ldpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\drawable-land-mdpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\drawable-land-xhdpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\drawable-ldpi\splash.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\drawable-mdpi\splash.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\drawable-port-hdpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\drawable-port-ldpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\drawable-port-mdpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\drawable-port-xhdpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\drawable-xhdpi\splash.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\drawable-xxhdpi\icon.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\values\strings.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\res\xml\config.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\res\drawable\icon.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\res\drawable-hdpi\splash.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\res\drawable-ldpi\splash.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\res\drawable-mdpi\splash.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\res\drawable-xhdpi\splash.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\res\drawable-xxhdpi\icon.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\_where-is-www.txt \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\addplans.asp \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\add_plans.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\cordova.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\cordova_plugins.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\coworkers.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\friends.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\icon.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\index.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\modify_plans.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\mycalendar.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\notifications.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\read.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\request_shift.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\spec \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\spec.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\study.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\time_fillers.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\view_plans.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\watchtv.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\css\background.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\css\index.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\logo.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\menu.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\notifications.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\notificationspurple.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\submit.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\wdCalendar.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\js\index.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\js\jquery-2.1.3.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\android \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\bada \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\bada-wac \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\blackberry \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\ios \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\tizen \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\webos \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\windows-phone \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\android\icon-36-ldpi.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\android\icon-48-mdpi.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\android\icon-72-hdpi.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\android\icon-96-xhdpi.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\bada\icon-128.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\bada-wac\icon-48-type5.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\bada-wac\icon-50-type3.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\bada-wac\icon-80-type4.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\blackberry\icon-80.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\ios\icon-57-2x.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\ios\icon-57.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\ios\icon-72-2x.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\ios\icon-72.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\tizen\icon-128.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\webos\icon-64.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\windows-phone\icon-173-tile.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\windows-phone\icon-48.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\icon\windows-phone\icon-62-tile.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\android \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\bada \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\bada-wac \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\blackberry \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\ios \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\tizen \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\webos \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\windows-phone \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\android\screen-hdpi-landscape.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\android\screen-hdpi-portrait.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\android\screen-ldpi-landscape.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\android\screen-ldpi-portrait.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\android\screen-mdpi-landscape.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\android\screen-mdpi-portrait.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\android\screen-xhdpi-landscape.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\android\screen-xhdpi-portrait.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\bada\screen-portrait.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\bada-wac\screen-type3.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\bada-wac\screen-type4.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\bada-wac\screen-type5.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\blackberry\screen-225.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\ios\screen-ipad-landscape-2x.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\ios\screen-ipad-landscape.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\ios\screen-ipad-portrait-2x.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\ios\screen-ipad-portrait.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\ios\screen-iphone-landscape-2x.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\ios\screen-iphone-landscape.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\ios\screen-iphone-portrait-2x.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\ios\screen-iphone-portrait-568h-2x.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\ios\screen-iphone-portrait.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\tizen\README.md \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\webos\screen-64.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\res\screen\windows-phone\screen-portrait.jpg \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\license.txt \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\readme.txt \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\whatsnew.txt \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\dhtmlxscheduler.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\dhtmlxscheduler.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\dhtmlxscheduler_classic.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\dhtmlxscheduler_flat.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\dhtmlxscheduler_glossy.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\base_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\chart_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\combo_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\convert.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\crosslink_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\dataprocessor.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\dataview_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\data_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_adodb.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_common.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_excel.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_filesystem.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_mssql.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_mysqli.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_oracle.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_pdo.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_phpcake.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_phpci.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_phpyii.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_postgre.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_sasql.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_sqlite.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_sqlite3.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\db_sqlsrv.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\filesystem_item.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\form_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\gantt_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\grid_config.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\grid_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\keygrid_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\mixed_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\options_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\scheduler_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\strategy.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\tools.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\treedatagroup_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\treedatamultitable_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\treegridgroup_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\treegridmultitable_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\treegrid_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\treegroup_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\treemultitable_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\tree_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\update.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\connector\xss_filter.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_active_links.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_agenda_view.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_all_timed.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_collision.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_container_autoresize.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_cookie.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_editors.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_expand.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_html_templates.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_key_nav.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_layer.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_limit.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_map_view.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_minical.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_monthheight.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_multiselect.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_multisource.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_mvc.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_offline.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_outerdrag.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_pdf.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_quick_info.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_readonly.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_recurring.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_serialize.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_tooltip.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_url.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_wp.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\ext\dhtmlxscheduler_year_view.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs\buttons.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs\but_repeat.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs\calendar.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs\clock_big.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs\clock_small.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs\collapse_expand_icon.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs\controls.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs\databg.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs\databg_now.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs\export_ical.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs\export_pdf.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs\icon.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs\images.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs\loading.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs\resize_dots.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace\arrow_left.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace\arrow_right.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace\but_repeat.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace\calendar.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace\clock_big.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace\clock_small.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace\close_icon.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace\collapse_expand_icon.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace\controls.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace\databg.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace\databg_now.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace\export_ical.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace\export_pdf.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace\resize_dots.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_dhx_terrace\resizing.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\agenda_bg.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\arrow_left.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\arrow_right.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\but_repeat.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\calendar.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\clock.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\clock_big.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\clock_small.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\close_icon.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\collapse_expand_icon.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\controls.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\databg.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\databg_now.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\export_ical.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\export_pdf.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\resize_dots.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_flat\resizing.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\blue_tab.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\blue_tab_wide.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\buttons.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\but_repeat.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\calendar.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\clock_big.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\clock_small.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\collapse_expand_icon.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\controlls5.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\databg.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\databg_now.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\event-bg.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\export_ical.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\export_pdf.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\icon.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\left-separator.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\left-time-bg.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\lightbox.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\loading.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\move.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\multi-days-bg.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\second-top-days-bg.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\top-days-bg.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\top-separator.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\white_tab.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\imgs_glossy\white_tab_wide.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_ar.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_be.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_ca.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_cn.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_cs.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_da.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_de.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_el.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_en.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_es.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_fi.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_fr.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_he.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_hu.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_id.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_it.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_jp.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_nb.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_nl.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_no.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_pl.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_pt.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_ro.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_ru.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_si.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_sk.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_sv.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_tr.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\locale_ua.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_be.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_cn.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_cs.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_da.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_de.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_el.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_en.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_es.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_fi.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_fr.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_it.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_nb.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_nl.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_pl.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_pt.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_ro.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_ru.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_sk.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_sv.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\locale_recurring_ua.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\repeat_template_be.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\repeat_template_cn.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\repeat_template_de.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\repeat_template_el.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\repeat_template_en.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\repeat_template_es.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\repeat_template_fr.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\repeat_template_it.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\repeat_template_nl.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\repeat_template_ro.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\repeat_template_ru.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\locale\recurring\repeat_template_sk.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\dhtmlxscheduler.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\dhtmlxscheduler.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\skins \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_active_links.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_active_links.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_agenda_view.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_agenda_view.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_all_timed.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_all_timed.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_collision.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_collision.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_container_autoresize.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_container_autoresize.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_cookie.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_cookie.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_editors.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_editors.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_expand.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_expand.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_html_templates.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_html_templates.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_key_nav.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_key_nav.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_layer.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_layer.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_limit.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_limit.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_map_view.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_map_view.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_minical.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_minical.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_monthheight.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_monthheight.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_multiselect.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_multiselect.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_multisource.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_multisource.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_mvc.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_mvc.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_offline.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_offline.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_outerdrag.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_outerdrag.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_pdf.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_pdf.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_quick_info.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_quick_info.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_readonly.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_readonly.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_recurring.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_recurring.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_serialize.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_serialize.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_tooltip.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_tooltip.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_url.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_url.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_wp.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_wp.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_year_view.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\ext\dhtmlxscheduler_year_view.js.map \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\skins\dhtmlxscheduler.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\skins\dhtmlxscheduler_classic.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\skins\dhtmlxscheduler_flat.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\codebase\sources\skins\dhtmlxscheduler_glossy.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\05_calendar \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\08_shared_events \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\11_scales \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\index.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\readme.txt \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\01_basic_init.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\02_hour_scale_format.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\03_header_format.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\05_loading_database.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\06_multi_day_events.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\07_locale_usage.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\08_options.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\09_connector_options.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\10_loading_database_json.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\11_connector_options_json.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\12_block_csrf.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\13_touch_ui.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\data \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\index.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\data\events.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\data\events.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\data\events_json.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\data\events_safe.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\data\types.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\data\types.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\01_initialization_loading\data\types_json.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\01_events_coloring.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\02_days_coloring.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\03_hours_coloring.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\04_month_days_coloring.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\05_custom_editor.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\06_templates.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\07_custom_view.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\08_validation.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\09_timestep.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\10_without_toolbar.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\11_auto_end_date.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\12_full_day_event.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\13_single_checkbox_section.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\14_radio_buttons_section.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\15_combo_select.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\16_custom_form.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\17_lightbox_header.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\18_combo_select_from_db.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\20_multiline_event_bars.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\21_custom_hour_scale.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\22_opertions_with_lightbox.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\23_current_time.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\24_cascade_event_display.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\25_color_property.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\26_linked_selects_in_lightbox.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\27_custom_event_box.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\28_lightbox_default_value.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\29_changing_lightbox_configurations.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\30_lightbox_time_format.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\31_view_more.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\32_resizable_month_events.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\data \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\imgs \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\index.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\data\combo_select.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\data\events.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\imgs\databg.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\imgs\hour_bg.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\02_customization\imgs\week_bg.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\01_recurring_events.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\03_agenda_view.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\04_year_view.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\05_expand_plugin.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\06_links_plugin.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\07_navigation_plugin.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\08_cookies_plugin.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\09_html_templates_plugin.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\10_url_date_plugin.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\11_pdf_plugin.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\12_readonly_form.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\13_multisource.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\14_readonly_event.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\15_collision.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\16_limitation.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\19_map_view.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\21_multiselect_options.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\22_multiselect_initial_loading.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\23_map_view_timeframes.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\26_multi_day_visible.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\data \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\index.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\data\events.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\data\events_map_view.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\data\events_multiselect_options.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\data\events_multiselect_static.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\data\events_rec.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\data\types.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\03_extensions\data\units.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\01_serialize_xml.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\02_serialize_json.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\03_serialize_ical.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\04_serialize_recurring.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\05_standalone_export.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\06_online_export.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\07_online_styles.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\data \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\index.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\data\data.ical \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\data\data.json \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\data\data.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\data\data_r.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\data\dummy.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\data\events.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\data\ical_download.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\data\ical_mirror.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\data\ical_writer.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\data\json_download.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\data\json_writer.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\data\xml_download.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\data\xml_writer.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\04_export\data\xml_writer_r.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\05_calendar\01_select.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\05_calendar\02_without_scheduler.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\05_calendar\03_in_form.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\05_calendar\05_plain_structure.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\05_calendar\06_recurring_form.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\05_calendar\data \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\05_calendar\index.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\05_calendar\data\events.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\01_default.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\02_glossy.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\03_classic.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\04_default_alt.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\05_glossy_alt.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\06_classic_alt.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\07_default_rec.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\08_glossy_rec.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\09_classic_rec.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\10_default_alt_rec.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\11_glossy_alt_rec.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\12_classic_alt_rec.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\13_flat.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\14_flat_alt.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\15_flat_rec.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\16_flat_alt_rec.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\data \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\index.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\07_skins\data\events.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\08_shared_events\combined.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\08_shared_events\events.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\08_shared_events\events_shared.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\08_shared_events\index.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\08_shared_events\user_1.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\08_shared_events\user_1_combined.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\08_shared_events\user_2.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\02_dhtmlx_message.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\05_mouse_over_highlight.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\06_hightlight_and_single_click_create.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\07_highlighted_timespans_month_view.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\08_show_event.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\09_filtering_events.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\10_custom_recurring_form.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\data \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\index.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\data\imgs \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\data\imgs\!_yellow.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\data\imgs\dots.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\data\imgs\fat_lines.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\data\imgs\medium_lines.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\data\imgs\small_lines.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\09_api\data\imgs\v_green.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\01_dhtmlxMenu.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\03_dhtmlxLayout.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\04_datastore.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\05_dhtmlxLayout_terrace.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\06_jquery.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\07_backbone.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\08_bootstrap.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\index.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\backbone.json \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\data.json \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\dhxmenu.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\events.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\tree.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\about.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\about_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\bug_reporting.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\bug_reporting_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\close.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\close_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\copy.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\copy_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\cut.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\cut_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\help.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\help_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\new.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\new_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\open.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\open_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\page_setup.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\page_setup_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\paste.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\paste_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\print.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\print_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\redo.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\redo_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\save.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\save_as.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\save_as_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\save_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\select_all.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\select_all_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\undo.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\10_integration\data\imgs\undo_dis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\11_scales\01_month_ignore.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\11_scales\02_week_ignore.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\11_scales\03_two_work_weeks.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\11_scales\data \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\11_scales\index.html \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\11_scales\data\events.xml \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\backbone \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\config.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\custom.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\database.sqlite \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxCombo \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxDataStore \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\docs.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dump.sql \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\testdata.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\backbone\backbone.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\backbone\underscore.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\base_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\chart_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\combo_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\convert.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\crosslink_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\dataprocessor.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\dataview_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\data_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_adodb.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_common.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_excel.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_filesystem.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_mssql.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_mysqli.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_oracle.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_pdo.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_phpcake.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_phpci.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_phpyii.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_postgre.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_sasql.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_sqlite.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_sqlite3.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\db_sqlsrv.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\filesystem_item.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\form_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\grid_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\keygrid_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\mixed_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\options_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\scheduler_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\strategy.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\tools.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\treedatagroup_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\treedatamultitable_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\treegridgroup_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\treegridmultitable_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\treegrid_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\treegroup_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\treemultitable_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\tree_connector.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\update.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\connector\xss_filter.php \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxCombo\dhtmlxcombo.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxCombo\dhtmlxcombo.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxCombo\imgs \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxCombo\imgs\bg_selection.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxCombo\imgs\blank.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxCombo\imgs\combo_select.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxCombo\imgs\combo_select_dhx_black.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxCombo\imgs\combo_select_dhx_blue.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxCombo\imgs\combo_select_dhx_skyblue.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxDataStore\datastore.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\dhtmlxcommon.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\dhtmlxcontainer.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\dhtmlxlayout.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\dhtmlxlayout.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\skins \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_skyblue \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_terrace \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_skyblue\dhxlayout_bg.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_skyblue\dhxlayout_bg_sb.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_skyblue\dhxlayout_btns.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_skyblue\dhxlayout_collapsedhor.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_skyblue\dhxlayout_collapsedver.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_skyblue\dhxlayout_cpanel_btn_dock.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_skyblue\dhxlayout_cpanel_btn_undock.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_skyblue\dhxlayout_drag_hor.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_skyblue\dhxlayout_drag_ver.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_skyblue\dhxlayout_progress.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_skyblue\dhxlayout_progress_global.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_terrace\bg_def.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_terrace\dhxlayout_bg_sb.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_terrace\dhxlayout_btns.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_terrace\dhxlayout_drag_hor.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_terrace\dhxlayout_drag_ver.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_terrace\dhxlayout_progress.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\imgs\dhxlayout_dhx_terrace\dhxlayout_progress_global.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\skins\dhtmlxlayout_dhx_skyblue.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxLayout\skins\dhtmlxlayout_dhx_terrace.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\dhtmlxmenu.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\skins \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_black \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_blue \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_skyblue \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_terrace \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_web \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_black\dhtmlxmenu_bg.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_black\dhtmlxmenu_chrd.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_black\dhtmlxmenu_loader.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_black\dhtmlxmenu_subar.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_black\dhtmlxmenu_subsepbg.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_black\dhtmlxmenu_upar.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_blue\dhtmlxmenu_bg.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_blue\dhtmlxmenu_chrd.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_blue\dhtmlxmenu_loader.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_blue\dhtmlxmenu_subar.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_blue\dhtmlxmenu_subsepbg.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_blue\dhtmlxmenu_upar.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_skyblue\dhtmlxmenu_chrd.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_skyblue\dhtmlxmenu_loader.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_skyblue\dhtmlxmenu_subar.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_skyblue\dhtmlxmenu_upar.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_skyblue\dhxmenu_bg_acccell.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_skyblue\dhxmenu_subselbg.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_skyblue\dhxmenu_subsepbg.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_skyblue\dhxmenu_topselbg.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_skyblue\dhxmenu_topsepbg.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_terrace\dhtmlxmenu_chrd.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_terrace\dhtmlxmenu_loader.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_terrace\dhtmlxmenu_subar.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_terrace\dhxmenu_bg_item.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_terrace\dhxmenu_bg_item_sel.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_terrace\dhxmenu_bg_subsep.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_web\dhxmenu_chrd.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_web\dhxmenu_loader.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_web\dhxmenu_subar.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_web\dhxmenu_subselbg.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_web\dhxmenu_subsepbg.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_web\dhxmenu_topbg.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_web\dhxmenu_topselbg.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_web\dhxmenu_topsepbg.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\imgs\dhxmenu_dhx_web\dhxmenu_upar.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\skins\dhtmlxmenu_dhx_black.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\skins\dhtmlxmenu_dhx_blue.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\skins\dhtmlxmenu_dhx_skyblue.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\skins\dhtmlxmenu_dhx_terrace.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxMenu\skins\dhtmlxmenu_dhx_web.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\dhtmlxtree.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\dhtmlxtree.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\blank.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\but_cut.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\folderClosed.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\folderOpen.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\iconCheckAll.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\iconCheckDis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\iconCheckGray.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\iconUncheckAll.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\iconUncheckDis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\leaf.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\line.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\line1.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\line1_rtl.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\line2.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\line2_rtl.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\line3.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\line3_rtl.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\line4.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\line4_rtl.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\lock.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\minus.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\minus1.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\minus2.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\minus2_rtl.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\minus3.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\minus3_rtl.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\minus4.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\minus4_rtl.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\minus5.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\minus5_rtl.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\minus_ar.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\plus.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\plus1.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\plus2.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\plus2_rtl.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\plus3.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\plus3_rtl.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\plus4.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\plus4_rtl.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\plus5.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\plus5_rtl.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\plus_ar.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\radio_off.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\radio_on.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\sky_blue_sel_tree.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\blank.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\folderClosed.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\folderOpen.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\iconCheckAll.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\iconCheckDis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\iconChecked.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\iconCheckGray.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\iconFlag.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\iconGraph.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\iconSound.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\iconText.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\iconTexts.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\iconUncheckAll.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\iconUncheckDis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\iconWrite1.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\iconWrite2.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\leaf.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\leaves.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\lock.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\minus.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\plus.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\radio_off.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_dhx_terrace\radio_on.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\blank.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\books_close.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\books_open.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\folderClosed.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\folderOpen.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\iconCheckAll.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\iconCheckDis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\iconCheckGray.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\iconText.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\iconUncheckAll.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\iconUncheckDis.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\leaf.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\leaf2.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\leaf3.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\leaf_2.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\line.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\line1.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\line2.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\line3.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\line4.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\lock.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\minus.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\minus1.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\minus2.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\minus3.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\minus4.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\minus5.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\plus.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\plus1.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\plus2.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\plus3.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\plus4.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\plus5.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\radio_off.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\radio_on.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\tombs.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\scheduler\samples\common\dhtmlxTree\imgs\csh_yellowbooks\tombs_open.gif \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\spec\helper.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\spec\index.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\spec\lib \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\spec\lib\jasmine-1.2.0 \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine-html.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine.css \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine.js \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\spec\lib\jasmine-1.2.0\MIT.LICENSE \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\ant-build\AndroidManifest.xml \
