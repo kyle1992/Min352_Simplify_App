@@ -18,8 +18,12 @@
 
 <script type="text/javascript" charset="utf-8">
 	function init() {
-		scheduler.config.xml_date="%Y-%m-%d %H:%i";
 		scheduler.init('scheduler_here',new Date(2015,3,1),"week")
+        scheduler.parse([
+    {text:"Meeting",    start_date:"04/02/2015 14:00", end_date:"04/02/2015 17:00"},
+    {text:"Conference", start_date:"04/15/2013 12:00", end_date:"04/18/2013 19:00"},
+    {text:"Interview",  start_date:"04/24/2013 09:00", end_date:"04/24/2013 10:00"}
+],"json");
 	}
 </script>
 

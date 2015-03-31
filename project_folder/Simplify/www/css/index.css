@@ -107,7 +107,7 @@ body {
 }
 
 #appbody {
-    background-color: #FFFFFF;
+    background-image: linear-gradient(#B280B2, #FFFFFF);
     text-align: center;
     font-family: sans-serif;
     vertical-align: top;
@@ -250,6 +250,7 @@ body {
     height: 40px;
     width: 100%;
     display: inline-block;
+    margin-bottom: 20px;
 }
 #subhead h3 {
     font-family: 'Pompiere' , 'sans-serif';
@@ -331,4 +332,25 @@ form p{
 #dayform h1{
     font-size: 16px;
     font-family: 'lato', sans-serif;
+}
+.friend{
+    border-style:solid;
+    border-width: 1px;
+    border-color: #F0E6F0;
+    border-radius: 30px;
+    padding: 30px;
+}
+#myfriend {
+    text-align:left;
+    padding-left: 30px;
+    font-family:'Pompiere' , sans-serif;
+    font-size: 19px; 
+    padding-left: 30px;
+    margin-left:30px;
+    margin-top: 12px;
+}
+.profile {
+    border-radius: 60px;
+    float: left;
+    
 }
