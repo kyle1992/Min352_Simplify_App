@@ -56,29 +56,12 @@
         
         
         <div id="appbody">
-            <div id="subhead">
-        <h3>Friends</h3>
-            </div>
-            <div>
-                <div onclick="window.open('ashprofile.html','mywindow');" style="cursor: hand;" class="friend"> <img class="profile" src="img/ashley.png" width="50" height="50"> <h1 id=myfriend>Ashley Weber</h1>  </div>
-            </div>
-            <div>
-                <div onclick="window.open('daveprofile.html','mywindow');" style="cursor: hand;"  class="friend"> <img class="profile" src="img/david.jpg" width="50" height="50"> <h1 id=myfriend>David Weber</h1> </div>
-           </div>
-            <div>
-                <div  onclick="window.open('rachelprofile.html','mywindow');" style="cursor: hand;" class="friend"> <img class="profile" src="img/rachel.jpg" width="50" height="50"> <h1 id=myfriend>Rachel Williamson</h1> </div>
-           </div>
-            <div>
-                <div onclick="window.open('brandonprofile.html','mywindow');" style="cursor: hand;" class="friend"> <img class="profile" src="img/brandon.jpg" width="50" height="50"> <h1 id=myfriend>Brandon Gatto</h1> </div>
-           </div>
-            <div>
-                <div  onclick="window.open('codyprofile.html','mywindow');" style="cursor: hand;" class="friend"> <img class="profile" src="img/cody.jpg" width="50" height="50"> <h1 id=myfriend>Cody Schuman</h1> </div>
-           </div>
-            <div>
-                <div  onclick="window.open('jessicaprofile.html','mywindow');" style="cursor: hand;" class="friend"> <img class="profile" src="img/jessica.jpg" width="50" height="50"> <h1 id=myfriend>Jessica Waters</h1> </div>
-           </div>
-            
-            
+        <div id="subhead">
+        <img class="subprofile" src="img/david.jpg" width="50" height="50"><h3>David's Plans</h3>
+        </div>
+            <div> 
+    <object type="text/html" data="../www/davecalendar.html" width="100%" height="600px" style="overflow:auto;">
+    </object></div>
         </div>
         
         
@@ -87,8 +70,8 @@
         <script type="text/javascript">
             app.initialize();
         </script>
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
         <script src="js/jquery-2.1.3.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script type="text/javascript">
 	$("#nav").addClass("js").before('<div id="menu"><img src="img/menu.png" width="30" height="30"</a></div>');
 	$("#menu").click(function(){

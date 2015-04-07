@@ -19,6 +19,12 @@
 <script type="text/javascript" charset="utf-8">
 	function init() {
 		scheduler.init('scheduler_here',new Date(2015,3,1),"week")
+        scheduler.parse([
+    {text:"Work",    start_date:"04/10/2015 9:00", end_date:"04/10/2015 17:00"},
+    {text:"Work",    start_date:"04/09/2015 9:00", end_date:"04/09/2015 17:00"},
+    {text:"Grocery Shopping", start_date:"04/07/2015 12:00", end_date:"04/07/2015 14:00"},
+    {text:"Professional Meeting",  start_date:"04/24/2015 09:00", end_date:"04/24/2015 10:00"}
+],"json");
 	}
 </script>
 
@@ -37,3 +43,4 @@
 		</div>
 	</div>
 </body>
+</html>

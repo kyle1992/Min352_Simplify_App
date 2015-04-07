@@ -1,0 +1,16 @@
+<iframe name="CHATBUTTON_CHATBOX" id="CHATBUTTON_CHATBOX" src="https://www.chatbutton.com/chatroom/18365779/" width="300" height="450" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no"><a href="https://www.chatbutton.com/chatroom/18365779/">Enter Chat Room</a></iframe>
+<script type="text/javascript">
+CHBT_channel="18365779";
+CHBT_title="Simplify+App";
+CHBT_titlecolor="FFFFFF";
+CHBT_size="300x450";
+CHBT_bgcolor="FFFFFF";
+CHBT_textcolor="000000";
+CHBT_textsize="12";
+CHBT_nncolor="335599";
+CHBT_cpcolor="335599";
+CHBT_profanityfilter="1";
+CHBT_position="inline";
+</script>
+<script type="text/javascript" src="https://www.chatbutton.com/c.js">
+</script>

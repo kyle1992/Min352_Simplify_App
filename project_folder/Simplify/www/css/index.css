@@ -354,3 +354,7 @@ form p{
     float: left;
     
 }
+.subprofile{
+    border-radius: 60px;
+    display:inline;
+}
