@@ -321,11 +321,16 @@ C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platf
 C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\dhtmlxConnector_php\samples\treegrid\index.html \
 C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\ashley.png \
 C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\brandon.jpg \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\cal.png \
 C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\cody.jpg \
 C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\david.jpg \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\friends.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\home.png \
 C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\jessica.jpg \
 C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\logo.png \
 C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\menu.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\messages.png \
+C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\notificantionblack.png \
 C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\notifications.png \
 C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\notificationspurple.png \
 C:\Users\Kyle\Documents\GitHub\Min352_Simplify_App\project_folder\Simplify\platforms\android\assets\www\img\rachel.jpg \

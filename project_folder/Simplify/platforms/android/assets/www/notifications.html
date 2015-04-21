@@ -30,56 +30,44 @@
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
         <link rel="stylesheet" type="text/css" href="css/index.css" />
         <title>Simplify</title>
+        <script type="text/javascript">
+  (function(d) {
+    var cwjs, id='chatwing-js';  if(d.getElementById(id)) {return;}
+    cwjs = d.createElement('script'); cwjs.type = 'text/javascript'; cwjs.async = true; cwjs.id = id
+    cwjs.src = "//chatwing.com/code/0b2a1fb0-e7be-11e4-9f1e-831ccf643130/embedded";
+    d.getElementsByTagName('head')[0].appendChild(cwjs);
+  })(document);
+</script>
     </head>
     
     
     
     
     <body>
-        <div id="apphead">
+       <div id="apphead">
         <div id ="title"><h1> Simplify</h1></div>
         <div id="navigation">
            
             <ul id="nav">
-	<li><a href="index.html">Home</a></li>
-	<li><a href="view_plans.html">My Calendar</a></li>
-    <li><a href="notifications.html">Notifications</a></li>
-    <li><a href="friends.html">Friends</a></li>
+	<li><a href="index.html"><img src="img/home.png" width="30" height="30"></a></li>
+	<li><a href="view_plans.html"><img src="img/cal.png" width="30" height="30"></a></li>
+    <li><a href="notifications.html"><img src="img/messages.png" width="30" height="30"></a></li>
+    <li><a href="friends.html"><img src="img/friends.png" width="30" height="30"></a></li>
 </ul>
        </div>
-            <div id="notification">
-                <a href="notifications.html">
-<img src="img/notifications.png" alt="Notifications" width="42" height="42">
-</a>        
-            </div>
+          
         </div>
         
         
         <div id="appbody">
             <div id="subhead">
-        <h3>Notifications</h3>
+        <h3>Messages</h3>
             </div>
         <div>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-             <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-         <iframe name="CHATBUTTON_CHATBOX" id="CHATBUTTON_CHATBOX" src="https://www.chatbutton.com/chatroom/18365781/" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no"><a href="https://www.chatbutton.com/chatroom/18365781/">Enter Chat Room</a></iframe>
-<script type="text/javascript">
-CHBT_channel="18365781";
-CHBT_profanityfilter="1";
-CHBT_position="inline";
-</script>
-<script type="text/javascript" src="https://www.chatbutton.com/c.js">
-</script>
+<div id="chatwing-embedded-0b2a1fb0-e7be-11e4-9f1e-831ccf643130"><!-- Begin chatwing.com chatbox -->
+<iframe src="http://chatwing.com/chatbox/0b2a1fb0-e7be-11e4-9f1e-831ccf643130" width="350" height="500" frameborder="0" scrolling="0">Please contact us at info@chatwing.com if you cant embed the chatbox</iframe>
+<!-- End chatwing.com chatbox --></div>
+
 
         </div>
             
@@ -96,7 +84,7 @@ CHBT_position="inline";
 <script type="text/javascript">
 	$("#nav").addClass("js").before('<div id="menu"><img src="img/menu.png" width="30" height="30"</a></div>');
 	$("#menu").click(function(){
-		$("#nav").fadeToggle();
+		$("#nav").slideToggle();
             
         
 	});
