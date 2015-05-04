@@ -186,6 +186,7 @@ body {
 
 #nav ul {
 		width:60px;
+        z-index: 9999;
 	}
 	#nav li {
 		width:280px;
